@@ -8,11 +8,10 @@ Sure 🙂 — here’s a **complete `README.md` file** for your servlet app, wri
 A simple Java web application built with Servlets and JSP-style folder structure (Maven layout).  
 It displays a form for entering **Full Name** and **Age** and shows the submitted data on the next page.
 
----
+
 
 ## 📂 Project Structure
 
-```
 
 UserFormApp/
 ├─ pom.xml
@@ -25,8 +24,6 @@ UserFormApp/
 │   │       └─ WEB-INF/web.xml
 
 ````
-
----
 
 ## 🚀 Features
 
