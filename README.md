@@ -1,7 +1,3 @@
-Sure 🙂 — here’s a **complete `README.md` file** for your servlet app, written in a clear, beginner-friendly way. You can copy-paste it into your project root.
-
----
-
 ```markdown
 # UserFormApp – Java Servlet Example
 
